@@ -10,7 +10,7 @@
     - 加密
 - 金山 pdf 独立版
     - 只推荐用来阅读 pdf
-- exiftool
+- [exiftool](https://exiftool.org/)
     - 查看 metadata
 - [PDF Guru](https://github.com/kevin2li/PDF-Guru/releases/tag/v1.0.12)
     - 解密 pdf
