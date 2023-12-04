@@ -4,10 +4,11 @@
     - 查看文档结构
 - [Abbyy Fine Reader](https://github.com/james-curtis/abbyy-fine-reader-crack)
     - ocr
-    - 修改
+    - 编辑
 - [Adobe Acrobat]()
     - 删除 metadata
     - 加密
+    - 编辑
 - 金山 pdf 独立版
     - 只推荐用来阅读 pdf
 - [exiftool](https://exiftool.org/)
