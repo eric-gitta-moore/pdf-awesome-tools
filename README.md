@@ -6,7 +6,7 @@
     - ocr
     - 修改
 - [Adobe Acrobat]()
-    - 清楚 metadata
+    - 删除 metadata
     - 加密
 - 金山 pdf 独立版
     - 只推荐用来阅读 pdf
