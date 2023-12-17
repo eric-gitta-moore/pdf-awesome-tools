@@ -18,3 +18,4 @@
     - 解密 pdf
 - [PDF24 Creator](https://tools.pdf24.org/zh/creator)
     - 解密 pdf
+    - 批量压缩 pdf
