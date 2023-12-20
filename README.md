@@ -10,6 +10,7 @@
     - 加密
     - 编辑
     - 打印预检
+    - 查看 pdf 内容结构
 - 金山 pdf 独立版
     - 只推荐用来阅读 pdf
 - [exiftool](https://exiftool.org/)
