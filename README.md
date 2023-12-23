@@ -11,6 +11,7 @@
     - 编辑
     - 打印预检
     - 查看 pdf 内容结构
+    - 批量压缩 pdf
 - 金山 pdf 独立版
     - 只推荐用来阅读 pdf
 - [exiftool](https://exiftool.org/)
@@ -19,7 +20,7 @@
     - 解密 pdf
 - [PDF24](https://tools.pdf24.org/zh/creator)
     - 解密 pdf
-    - 批量压缩 pdf
+    - 批量压缩 pdf（无法压缩大文件；似乎无法压缩纯图 pdf）
     - 大量 word 转 pdf
 - [FileLocator Pro](https://www.52pojie.cn/thread-1386712-1-1.html)
     - 全文检索
