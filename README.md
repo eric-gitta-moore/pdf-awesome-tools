@@ -21,3 +21,5 @@
     - 解密 pdf
     - 批量压缩 pdf
     - 大量 word 转 pdf
+- [FileLocator Pro](https://www.52pojie.cn/thread-1386712-1-1.html)
+    - 全文检索
