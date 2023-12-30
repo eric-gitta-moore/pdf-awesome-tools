@@ -25,3 +25,6 @@
 - [FileLocator Pro](https://www.52pojie.cn/thread-1386712-1-1.html)
     - 全文检索
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
+
+## 开发
+- [pdftk cli](https://www.pdflabs.com/docs/pdftk-cli-examples/)
