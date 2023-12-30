@@ -28,3 +28,4 @@
 
 ## 开发
 - [pdftk cli](https://www.pdflabs.com/docs/pdftk-cli-examples/)
+- [PyPDF2](https://pypdf2.readthedocs.io/en/3.0.0/dev/pdf-format.html)
