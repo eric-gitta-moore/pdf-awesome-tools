@@ -31,4 +31,4 @@
   - 解压 pdf
 - [PyPDF2](https://pypdf2.readthedocs.io/en/3.0.0/dev/pdf-format.html)
 - [QPDF](https://stackoverflow.com/a/6562443)
-  - 解压 pdf：`qpdf --qdf --object-streams=disable original.pdf unpacked.pdf`
+  - [解压 pdf](https://qpdf.readthedocs.io/en/stable/cli.html#option-qdf)：`qpdf --qdf --object-streams=disable original.pdf unpacked.pdf`
