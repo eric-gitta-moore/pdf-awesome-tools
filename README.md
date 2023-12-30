@@ -30,3 +30,5 @@
 - [pdftk cli](https://www.pdflabs.com/docs/pdftk-cli-examples/)
   - 解压 pdf
 - [PyPDF2](https://pypdf2.readthedocs.io/en/3.0.0/dev/pdf-format.html)
+- [QPDF](https://stackoverflow.com/a/6562443)
+  - 解压 pdf
