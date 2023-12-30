@@ -2,7 +2,7 @@
 
 - [PDF 补丁丁](https://github.com/wmjordan/PDFPatcher)
     - 查看文档结构
-- [Abbyy Fine Reader](https://github.com/james-curtis/abbyy-fine-reader-crack) [下载](https://nsaneforums.com/topic/442672-abbyy-finereader-pdf-16-v160147295/)
+- [Abbyy Fine Reader](https://github.com/james-curtis/abbyy-fine-reader-crack) 【[下载](https://nsaneforums.com/topic/442672-abbyy-finereader-pdf-16-v160147295/)】
     - ocr
     - 编辑
 - [Adobe Acrobat]()
