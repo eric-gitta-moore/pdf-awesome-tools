@@ -42,3 +42,4 @@
  ## 推荐阅读
  - https://stackoverflow.com/questions/69973586/print-all-objects-inside-a-pdf-file-with-python
  - https://stackoverflow.com/questions/22675690/if-identifying-text-structure-in-pdf-documents-is-so-difficult-how-do-pdf-reade
+ - https://github.com/pymupdf/PyMuPDF/issues/698#issue-726924547
