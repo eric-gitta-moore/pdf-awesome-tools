@@ -33,7 +33,7 @@
   - 解压 pdf
 - [PyPDF2](https://pypdf2.readthedocs.io/en/3.0.0/dev/pdf-format.html)
 - PyMuPDF
-  - 删除 object
+  - [删除 object](https://github.com/pymupdf/PyMuPDF/discussions/1855)
   - [压缩 pdf](https://github.com/pymupdf/PyMuPDF/discussions/2107)
   - [使用 redact 删除文本](https://stackoverflow.com/a/73234495)
     - pymupdf 作者说法 https://github.com/pymupdf/PyMuPDF/discussions/1019
