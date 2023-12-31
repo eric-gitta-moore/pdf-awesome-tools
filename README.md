@@ -34,7 +34,11 @@
 - [PyPDF2](https://pypdf2.readthedocs.io/en/3.0.0/dev/pdf-format.html)
 - PyMuPDF
   - 删除 object
-  - 使用 redact 删除文本
+  - [压缩 pdf](https://github.com/pymupdf/PyMuPDF/discussions/2107)
+  - [使用 redact 删除文本](https://stackoverflow.com/a/73234495)
+    - pymupdf 作者说法 https://github.com/pymupdf/PyMuPDF/discussions/1019
+    - https://blog.csdn.net/hbh112233abc/article/details/128201653
+  - [替换 stream 大法](https://stackoverflow.com/a/73851388)
 - [QPDF](https://stackoverflow.com/a/6562443)
   - [解压 pdf](https://qpdf.readthedocs.io/en/stable/cli.html#option-qdf)：`qpdf --qdf --object-streams=disable original.pdf unpacked.pdf`
 - 提取元素
