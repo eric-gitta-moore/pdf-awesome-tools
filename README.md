@@ -46,6 +46,8 @@
 - 提取元素
   - pdfplumber
   - pdfminer.six
+- [Ghostscript 压缩 pdf](https://github.com/deimo/pdf-compress)
+
 
  ## 推荐阅读
  - https://stackoverflow.com/questions/69973586/print-all-objects-inside-a-pdf-file-with-python
