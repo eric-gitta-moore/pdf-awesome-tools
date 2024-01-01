@@ -24,6 +24,8 @@
     - 解密 pdf
     - 批量压缩 pdf（无法压缩大文件；似乎无法压缩纯图 pdf）
     - 大量 word 转 pdf
+- [Dataku](https://dataku.ai)
+    - PDF抽取工具
 - [FileLocator Pro](https://www.52pojie.cn/thread-1386712-1-1.html)
     - 全文检索
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
