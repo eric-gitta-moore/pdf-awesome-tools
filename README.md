@@ -47,6 +47,8 @@
   - pdfplumber
   - pdfminer.six
 - [Ghostscript 压缩 pdf](https://github.com/deimo/pdf-compress)
+- [添加平铺水印](https://xie.infoq.cn/article/e3752245b7952d51ab98fd416)
+  - [reportlab使用自定义字体](https://blog.csdn.net/plutus_sutulp/article/details/7708992)
 
 
  ## 推荐阅读
