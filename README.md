@@ -22,7 +22,7 @@
     - 解密 pdf
 - [PDF24](https://tools.pdf24.org/zh/creator)
     - 解密 pdf
-    - [批量压缩 pdf](https://creator.pdf24.org/manual/11/#:~:text=pdf24%2DDocTool.exe%20%2Dcompress)（无法压缩大文件；似乎无法压缩纯图 pdf）
+    - [批量压缩 pdf](https://creator.pdf24.org/manual/11/#:~:text=pdf24%2DDocTool.exe%20%2Dcompress)（~~无法压缩大文件；似乎无法压缩纯图 pdf~~，看命令行日志是使用 Ghostscript 实现的）
     - 大量 word 转 pdf
     - 提取 pdf 中的图像
 - [Dataku](https://dataku.ai)
