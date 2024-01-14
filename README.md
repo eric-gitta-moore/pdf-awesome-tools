@@ -30,6 +30,7 @@
 - [FileLocator Pro](https://www.52pojie.cn/thread-1386712-1-1.html)
     - full text search
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
+- [avif cli](https://github.com/lovell/avif-cli)
 
 ## for dev
 - [pdftk cli](https://www.pdflabs.com/docs/pdftk-cli-examples/)
