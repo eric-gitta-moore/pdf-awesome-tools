@@ -1,39 +1,39 @@
 # pdf-awesome-tools
 
-## 用户
+## for user
 
 - [PDF 补丁丁](https://github.com/wmjordan/PDFPatcher)
-    - 查看文档结构
+    - view pdf content structure
 - [Abbyy Fine Reader](https://github.com/james-curtis/abbyy-fine-reader-crack) 【[下载](https://nsaneforums.com/topic/442672-abbyy-finereader-pdf-16-v160147295/)】
     - ocr
-    - 编辑
+    - edit
 - [Adobe Acrobat]()
-    - 删除 metadata
-    - 加密
-    - 编辑
-    - 打印预检
-    - 查看/编辑 pdf 内容结构
-    - 批量压缩 pdf
-- 金山 pdf 独立版
-    - 只推荐用来阅读 pdf
+    - remove metadata
+    - encrypt
+    - edit
+    - print production
+    - view / edit pdf content structure
+    - batch compress pdf 
+- 金山 pdf 独立版 / wps
+    - only recommend for reading
 - [exiftool](https://exiftool.org/)
-    - 查看 metadata
+    - view metadata
 - [PDF Guru](https://github.com/kevin2li/PDF-Guru/releases/tag/v1.0.12)
-    - 解密 pdf
+    - remove pdf's password
 - [PDF24](https://tools.pdf24.org/zh/creator)
-    - 解密 pdf
-    - [批量压缩 pdf](https://creator.pdf24.org/manual/11/#:~:text=pdf24%2DDocTool.exe%20%2Dcompress)（~~无法压缩大文件；似乎无法压缩纯图 pdf~~，看命令行日志是使用 Ghostscript 实现的）
+    - remove pdf's password
+    - [batch compress pdf](https://creator.pdf24.org/manual/11/#:~:text=pdf24%2DDocTool.exe%20%2Dcompress)（~~无法压缩大文件；似乎无法压缩纯图 pdf~~，看命令行日志是使用 Ghostscript 实现的）
     - 大量 word 转 pdf
-    - 提取 pdf 中的图像
+    - extract pdf images
 - [Dataku](https://dataku.ai)
-    - PDF抽取工具
+    - extract PDF page
 - [FileLocator Pro](https://www.52pojie.cn/thread-1386712-1-1.html)
-    - 全文检索
+    - full text search
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
 
-## 开发
+## for dev
 - [pdftk cli](https://www.pdflabs.com/docs/pdftk-cli-examples/)
-  - 解压 pdf
+  - decompress pdf
 - [PyPDF2](https://pypdf2.readthedocs.io/en/3.0.0/dev/pdf-format.html)
 - PyMuPDF
   - [删除 object](https://github.com/pymupdf/PyMuPDF/discussions/1855)
@@ -52,7 +52,11 @@
   - [reportlab使用自定义字体](https://blog.csdn.net/plutus_sutulp/article/details/7708992)
 
 
- ## 推荐阅读
+ ## recommend reading
  - https://stackoverflow.com/questions/69973586/print-all-objects-inside-a-pdf-file-with-python
  - https://stackoverflow.com/questions/22675690/if-identifying-text-structure-in-pdf-documents-is-so-difficult-how-do-pdf-reade
  - https://github.com/pymupdf/PyMuPDF/issues/698#issue-726924547
+
+## others awesome
+ - https://github.com/py-pdf/awesome-pdf
+ - https://github.com/abhi18av/awesome-pdf
