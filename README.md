@@ -17,6 +17,7 @@
 - 金山 pdf 独立版 / wps
     - only recommend for reading
 - [exiftool](https://exiftool.org/)
+    - [jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI)
     - view metadata
 - [PDF Guru](https://github.com/kevin2li/PDF-Guru/releases/tag/v1.0.12)
     - remove pdf's password
