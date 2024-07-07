@@ -13,7 +13,7 @@
     - edit
     - print production
     - view / edit pdf content structure
-    - batch compress pdf 
+    - batch compress pdf
 - 金山 pdf 独立版 / wps
     - only recommend for reading
 - [exiftool](https://exiftool.org/)
@@ -31,6 +31,7 @@
 - [FileLocator Pro](https://www.52pojie.cn/thread-1386712-1-1.html)
     - full text search
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
+  - compress pdf
 - [avif cli](https://github.com/lovell/avif-cli)
 
 ## for dev
