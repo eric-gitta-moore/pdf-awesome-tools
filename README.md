@@ -15,7 +15,7 @@
     - view / edit pdf content structure
     - batch compress pdf
 - 金山 pdf 独立版 / wps
-    - only recommend for reading
+    - recommend for reading only
 - [exiftool](https://exiftool.org/)
     - [jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI)
     - view metadata
