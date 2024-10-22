@@ -4,20 +4,20 @@
 
 - [PDF 补丁丁](https://github.com/wmjordan/PDFPatcher)
     - view pdf content structure
-- [Abbyy Fine Reader](https://github.com/james-curtis/abbyy-fine-reader-crack) 【[下载](https://nsaneforums.com/topic/442672-abbyy-finereader-pdf-16-v160147295/)】
+- [Abbyy Fine Reader](https://github.com/james-curtis/abbyy-fine-reader-crack) (Win, Mac) 【[下载](https://nsaneforums.com/topic/442672-abbyy-finereader-pdf-16-v160147295/)】
     - ocr
     - edit
-- [Adobe Acrobat]()
+- Adobe Acrobat (Win, Mac)
     - remove metadata
     - encrypt
     - edit
     - print production
     - view / edit pdf content structure
     - batch compress pdf
-- 金山 pdf 独立版 / wps
+- 金山 pdf 独立版 / wps (Win, Mac)
     - recommend for reading only
     - pdf 转 word 还得是这个
-- [exiftool](https://exiftool.org/)
+- [exiftool](https://exiftool.org/) (Cli, Win, Mac)
     - [jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI)
     - view metadata
 - [PDF Guru](https://github.com/kevin2li/PDF-Guru/releases/tag/v1.0.12)
