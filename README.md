@@ -16,6 +16,7 @@
     - batch compress pdf
 - 金山 pdf 独立版 / wps
     - recommend for reading only
+    - pdf 转 word 还得是这个
 - [exiftool](https://exiftool.org/)
     - [jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI)
     - view metadata
