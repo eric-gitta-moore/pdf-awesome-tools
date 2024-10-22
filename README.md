@@ -24,6 +24,8 @@
     - remove pdf's password
     - compress batched
     - Anki card
+- [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) (.jar, All Platform)
+  - compress pdf
 - [PDF24](https://tools.pdf24.org/zh/creator)
     - remove pdf's password
     - [batch compress pdf](https://creator.pdf24.org/manual/11/#:~:text=pdf24%2DDocTool.exe%20%2Dcompress)（~~无法压缩大文件；似乎无法压缩纯图 pdf~~，看命令行日志是使用 Ghostscript 实现的）
@@ -33,8 +35,6 @@
     - extract PDF page
 - [FileLocator Pro](https://www.52pojie.cn/thread-1386712-1-1.html)
     - full text search
-- [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) (.jar, All Platform)
-  - compress pdf
 - [avif cli](https://github.com/lovell/avif-cli)
 
 ## for dev
