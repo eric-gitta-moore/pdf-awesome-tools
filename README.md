@@ -22,7 +22,7 @@
     - view metadata
 - [PDF Guru](https://github.com/kevin2li/PDF-Guru/releases/tag/v1.0.12) (Win, Mac, Linux)
     - remove pdf's password
-    - compress
+    - compress batched
 - [PDF24](https://tools.pdf24.org/zh/creator)
     - remove pdf's password
     - [batch compress pdf](https://creator.pdf24.org/manual/11/#:~:text=pdf24%2DDocTool.exe%20%2Dcompress)（~~无法压缩大文件；似乎无法压缩纯图 pdf~~，看命令行日志是使用 Ghostscript 实现的）
