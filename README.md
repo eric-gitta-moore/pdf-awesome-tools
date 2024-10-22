@@ -26,6 +26,8 @@
     - Anki card
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) (.jar, All Platform)
   - compress pdf
+  - 删除 pdf 签名
+  - 加签名
 - [PDF24](https://tools.pdf24.org/zh/creator)
     - remove pdf's password
     - [batch compress pdf](https://creator.pdf24.org/manual/11/#:~:text=pdf24%2DDocTool.exe%20%2Dcompress)（~~无法压缩大文件；似乎无法压缩纯图 pdf~~，看命令行日志是使用 Ghostscript 实现的）
