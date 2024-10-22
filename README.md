@@ -20,7 +20,7 @@
 - [exiftool](https://exiftool.org/) (Cli, Win, Mac)
     - [jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI)
     - view metadata
-- [PDF Guru](https://github.com/kevin2li/PDF-Guru/releases/tag/v1.0.12) (Win, Mac, Linux)
+- [PDF Guru](https://github.com/kevin2li/PDF-Guru) (Win, Mac, Linux)
     - remove pdf's password
     - compress batched
 - [PDF24](https://tools.pdf24.org/zh/creator)
