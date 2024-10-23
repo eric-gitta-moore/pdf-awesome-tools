@@ -24,7 +24,7 @@
     - remove pdf's password
     - compress batched
     - Anki card
-    - 添加/**删除**水印
+    - 添加(支持多行)/**删除**水印
     - 加签名，支持手写
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) (.jar, All Platform)
   - compress pdf
