@@ -27,7 +27,7 @@
     - 添加(支持多行)/**删除**水印
     - 加签名，支持手写
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) (.jar, All Platform)
-  - compress pdf
+  - ~~compress pdf~~
   - 删除 pdf 签名
   - 加签名
   - 添加水印 (支持多行)
