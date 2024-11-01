@@ -22,7 +22,7 @@
     - view metadata
 - [PDF Guru](https://github.com/kevin2li/PDF-Guru) (Win, Mac, Linux)
     - remove pdf's password
-    - compress batched
+    - 压缩 pdf (垃圾还不如 Acrobat)
     - Anki card
     - 添加(支持多行)/**删除**水印
     - 加签名，支持手写
@@ -37,6 +37,7 @@
     - 大量 word 转 pdf
     - extract pdf images
 - PDF Squeezer (Mac)
+  - Mac 下压缩神器，比 Acrobat 好用，主要是配置方便
 - [Dataku](https://dataku.ai)
     - extract PDF page
 - [FileLocator Pro](https://www.52pojie.cn/thread-1386712-1-1.html)
