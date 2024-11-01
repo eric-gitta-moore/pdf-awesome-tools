@@ -38,6 +38,7 @@
     - extract pdf images
 - PDF Squeezer (Mac)
   - Mac 下压缩神器，比 Acrobat 好用，主要是配置方便
+  - 支持压缩前后比对
 - [Dataku](https://dataku.ai)
     - extract PDF page
 - [FileLocator Pro](https://www.52pojie.cn/thread-1386712-1-1.html)
