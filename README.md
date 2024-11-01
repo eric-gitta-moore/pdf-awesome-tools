@@ -37,7 +37,7 @@
     - 大量 word 转 pdf
     - extract pdf images
 - PDF Squeezer (Mac)
-  - Mac 下压缩神器，比 Acrobat 好用，主要是配置方便
+  - Mac 下压缩神器，比 Acrobat 好用，主要是配置方便，但是有点慢
   - 支持压缩前后比对
 - [Dataku](https://dataku.ai)
     - extract PDF page
