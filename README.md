@@ -15,7 +15,7 @@
     - view / edit pdf content structure
     - batch compress pdf
 - PDF Expert (Mac)
-  - 阅读、标注好用
+  - 阅读、标注好用，渲染速度快
   - 支持搜索结果列表，方便搜索
 - 金山 pdf 独立版 / wps (Win, Mac)
     - recommend for reading only
