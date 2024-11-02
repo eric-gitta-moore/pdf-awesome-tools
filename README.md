@@ -14,6 +14,7 @@
     - print production
     - view / edit pdf content structure
     - batch compress pdf
+- PDF Expert (Mac)
 - 金山 pdf 独立版 / wps (Win, Mac)
     - recommend for reading only
     - pdf 转 word 还得是这个
