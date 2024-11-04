@@ -75,10 +75,11 @@ workflow2: 长图散件 png > 文件排序 > 创建 PDF > 切割 A4 > 统一 PDF
   - [reportlab使用自定义字体](https://blog.csdn.net/plutus_sutulp/article/details/7708992)
 
 ## 常用动作
-### 切割长图
+### 水平/垂直切割
 - WPS 切割，需要手动计算切割长度，没找到比较好的办法
 - Acrobat 用别人的 print production - preflight 脚本好像可以
 - Windows 可以虚拟打印机分割
+- 福昕PDF编辑器
 
 ### MRC
 - ABBYY
