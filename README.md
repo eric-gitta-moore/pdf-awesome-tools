@@ -81,6 +81,7 @@ workflow2: 长图散件 png > 文件排序 > 创建 PDF > 切割 A4 > 统一 PDF
 - Windows 可以虚拟打印机分割
 - 福昕PDF编辑器
 - PDF Guru，太长图片会下标溢出
+- pdfToolbox Desktop，大杀器，Mac 好像无
 
 ### MRC
 - ABBYY
