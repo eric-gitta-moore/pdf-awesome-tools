@@ -74,6 +74,18 @@ workflow2: 长图散件 png > uTools 排序文件名 > Acrobat 创建 PDF > WPS 
 - [添加平铺水印](https://xie.infoq.cn/article/e3752245b7952d51ab98fd416)
   - [reportlab使用自定义字体](https://blog.csdn.net/plutus_sutulp/article/details/7708992)
 
+## 常用动作
+### 切割长图
+- WPS 切割，需要手动计算切割长度，没找到比较好的办法
+- Acrobat 用别人的 print production - preflight 脚本好像可以
+- Windows 可以虚拟打印机分割
+
+### MRC
+ABBYY 或者 PDFgear
+
+### 统一缩放 A4
+- Acrobat 印前检查 > preflight > Acrobat DC 2015 profiles > scale page to a4
+- 直接虚拟打印机打成 A4
 
  ## recommend reading
  - https://stackoverflow.com/questions/69973586/print-all-objects-inside-a-pdf-file-with-python
