@@ -80,6 +80,7 @@ workflow2: 长图散件 png > 文件排序 > 创建 PDF > 切割 A4 > 统一 PDF
 - Acrobat 用别人的 print production - preflight 脚本好像可以
 - Windows 可以虚拟打印机分割
 - 福昕PDF编辑器
+- PDF Guru，太长图片会下标溢出
 
 ### MRC
 - ABBYY
