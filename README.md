@@ -20,6 +20,7 @@
 - 金山 pdf 独立版 / wps (Win, Mac)
     - recommend for reading only
     - pdf 转 word 还得是这个
+    - 长图分割切 A4
 - [exiftool](https://exiftool.org/) (Cli, Win, Mac)
     - [jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI)
     - view metadata
