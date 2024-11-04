@@ -40,6 +40,7 @@
     - [batch compress pdf](https://creator.pdf24.org/manual/11/#:~:text=pdf24%2DDocTool.exe%20%2Dcompress)（~~无法压缩大文件；似乎无法压缩纯图 pdf~~，看命令行日志是使用 Ghostscript 实现的）
     - 大量 word 转 pdf
     - extract pdf images
+- PDFgear
 - [PDF Squeezer](https://github.com/eric-gitta-moore/PDF-Squeezer) (Mac)
   - Mac 下压缩神器，比 Acrobat 好用，主要是配置方便，但是有点慢
   - 支持压缩前后比对
