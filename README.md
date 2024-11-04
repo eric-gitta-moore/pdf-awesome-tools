@@ -1,5 +1,9 @@
 # pdf-awesome-tools
 
+workflow1: 下载图书 PDF > ABBYY OCR & MRC > 成品
+
+workflow2: 长图散件 > uTools 整理文件名排序 > Acrobat 创建 PDF > WPS 大致切割为 A4 比例 > 重新本地打印一遍成 A4 > 变成图书的样子走 workflow1
+
 ## for user
 
 - [PDF 补丁丁](https://github.com/wmjordan/PDFPatcher)
