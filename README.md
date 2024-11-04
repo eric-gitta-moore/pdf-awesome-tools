@@ -81,7 +81,8 @@ workflow2: 长图散件 png > uTools 排序文件名 > Acrobat 创建 PDF > WPS 
 - Windows 可以虚拟打印机分割
 
 ### MRC
-ABBYY 或者 PDFgear
+- ABBYY
+- PDFgear，文件太大没法压
 
 ### 统一缩放 A4
 - Acrobat 印前检查 > preflight > Acrobat DC 2015 profiles > scale page to a4
