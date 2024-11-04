@@ -1,6 +1,6 @@
 # pdf-awesome-tools
 
-workflow1: 下载图书 PDF > 裁剪出血框 (Optional) > ABBYY OCR & MRC > 成品
+workflow1: 下载图书 PDF > 裁剪出血框 (Optional) > [MRC](https://en.wikipedia.org/wiki/Mixed_raster_content) > 成品
 
 workflow2: 长图散件 png > 文件排序 > 创建 PDF > 切割 A4 > 统一 PDF 画布 > workflow1
 
