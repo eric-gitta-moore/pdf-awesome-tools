@@ -2,7 +2,7 @@
 
 workflow1: 下载图书 PDF > ABBYY OCR & MRC > 成品
 
-workflow2: 长图散件 png > uTools 排序文件名 > Acrobat 创建 PDF > WPS 大致切割为 A4 比例 > (归一化) 重新本地打印一遍成 A4 > workflow1
+workflow2: 长图散件 png > 文件排序 > 创建 PDF > 切割 A4 > 统一 PDF 画布 > workflow1
 
 ## for user
 
