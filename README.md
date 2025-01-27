@@ -18,6 +18,7 @@ workflow2: 长图散件 png > 文件排序 > 创建 PDF > 切割 A4 > 统一 PDF
     - print production
     - view / edit pdf content structure
     - batch compress pdf
+    - remove watermark batched
     - plugins
       - PitStop Pro (Preflight)
 - PDF Expert (Mac)
