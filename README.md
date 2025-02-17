@@ -27,6 +27,7 @@ workflow2: 长图散件 png > 文件排序 > 创建 PDF > 切割 A4 > 统一 PDF
 - PDF Reader Pro
   - 平铺瓷砖水印
   - 阅读好用
+  - 支持搜索结果列表，方便搜索
 - 金山 pdf 独立版 / wps (Win, Mac)
     - recommend for reading only
     - pdf 转 word 还得是这个
