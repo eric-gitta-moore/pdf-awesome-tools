@@ -24,6 +24,12 @@ workflow2: 长图散件 png > 文件排序 > 创建 PDF > 切割 A4 > 统一 PDF
 - PDF Expert (Mac)
   - 阅读、标注好用，渲染速度快
   - 支持搜索结果列表，方便搜索
+- PDF-XChange Editor Plus (Win)
+  - PDF Expert 对于 Win 的平替
+- [Sumatra PDF](https://github.com/sumatrapdfreader/sumatrapdf) (Win)
+  - 开源 PDF 阅读工具
+- Edge 自带 pdf 工具
+  - 轻量级标注工具
 - PDF Reader Pro
   - 平铺瓷砖水印
   - 阅读好用
