@@ -116,7 +116,7 @@ workflow2: 长图散件 png > 文件排序 > 创建 PDF > 切割 A4 > 统一 PDF
  - https://29a.ch/photo-forensics 免费的数字图像取证工具
 
 ## reference
-- [v2ex PDF 编辑软件](https://www.v2ex.com/t/805007)
-- [Windows 上有没有一款好用的 PDF 阅读器？](https://v2ex.com/t/905548)
+- 【v2ex】[PDF 编辑软件](https://www.v2ex.com/t/805007)
+- 【v2ex】[Windows 上有没有一款好用的 PDF 阅读器？](https://v2ex.com/t/905548)
 
 
