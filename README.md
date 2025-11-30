@@ -8,7 +8,7 @@ workflow2: 长图散件 png > 文件排序 > 创建 PDF > 切割 A4 > 统一 PDF
 
 - [PDF 补丁丁](https://github.com/wmjordan/PDFPatcher)
     - view pdf content structure
-- [Abbyy Fine Reader](https://github.com/james-curtis/abbyy-fine-reader-crack) (Win, Mac) 【[下载](https://nsaneforums.com/topic/442672-abbyy-finereader-pdf-16-v160147295/)】
+- [Abbyy Fine Reader](https://github.com/james-curtis/abbyy-fine-reader-crack) (Win, Mac) 【[原破帖子](https://nsaneforums.com/topic/442672-abbyy-finereader-pdf-16-v160147295/)】
     - ocr
     - edit
 - Adobe Acrobat (Win, Mac)
